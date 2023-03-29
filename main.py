@@ -1,2 +1,2 @@
 print("exercise1")
-print("new feature1")
+print("new feature")
